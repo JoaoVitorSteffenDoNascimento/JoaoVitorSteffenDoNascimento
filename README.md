@@ -110,50 +110,25 @@ Plataforma competitiva de matchmaking, formação de times e rating de jogadores
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorSteffenDoNascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSteffenDoNascimento&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" alt="Top Languages"/>
-
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaoVitorSteffenDoNascimento&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=JoaoVitorSteffenDoNascimento&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVitorSteffenDoNascimento&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 📫 Contato
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoVitorSteffenDoNascimento&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-[![João's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoVitorSteffenDoNascimento&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contributions Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVitorSteffenDoNascimento/JoaoVitorSteffenDoNascimento/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVitorSteffenDoNascimento/JoaoVitorSteffenDoNascimento/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoVitorSteffenDoNascimento/JoaoVitorSteffenDoNascimento/output/github-contribution-grid-snake.svg">
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-steffen-do-nascimento-522854362)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorsteffendonascimento@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoVitorSteffenDoNascimento)
 
 </div>
 
@@ -161,10 +136,10 @@ Plataforma competitiva de matchmaking, formação de times e rating de jogadores
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Let%27s%20build%20something%20great&fontSize=24&fontColor=a78bfa&fontAlignY=65" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=JoaoVitorSteffenDoNascimento&color=a78bfa&style=flat-square&label=Profile+Views" alt="profile views"/>
+<br/>
 
-*"I optimize APIs from 4s to 200ms and call it a good day ⚡"*
+<img src="https://komarev.com/ghpvc/?username=JoaoVitorSteffenDoNascimento&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
