@@ -27,17 +27,16 @@ const joao = {
   name:      "João Vitor Steffen do Nascimento",
   location:  "Campo Bom, RS — Brasil 🇧🇷",
   birthdate: "2008-07-05",
-  role:      "Software Engineer & Co-Founder @ GuardianDocs",
+  role:      "Software Engineer",
   education: [
     "Técnico em Informática — IFSUL Campus Sapiranga (2024–2027)",
     "Técnico em Administração — SEST/SENAT (2025–2027)",
   ],
-  currentlyBuilding: "GuardianDocs — SaaS B2B platform (TypeScript + Next.js + AWS)",
   currentlyLearning: ["AWS", "Cybersecurity", "Spring Boot", "System Design"],
   achievements: [
     "🏆 1º Lugar — Hackathon Universidade Feevale (CourseMapper)",
     "🎯 Cisco CiberEducação — Ethical Hacker Track",
-    "🥇 OBI 2025 — Olimpíada Brasileira de Informática",
+    "🥇 OBI 2025 & 2026 — Olimpíada Brasileira de Informática",
   ],
   languages: { portuguese: "C2 Native", english: "B1 Intermediate" },
   funFact:   "I optimize APIs from 4s to 200ms and call it a good day ⚡",
@@ -82,9 +81,6 @@ const joao = {
 ---
 
 ## 💼 Experiência
-
-### 🛡️ Co-Founder & Software Engineer — GuardianDocs *(Jun 2026 – Presente)*
-> Plataforma SaaS B2B em construção com **TypeScript**, **Next.js**, **Node.js**, **PostgreSQL** e **AWS**. Foco em arquitetura escalável e infraestrutura cloud com CI/CD e metodologias ágeis (Scrum/Kanban).
 
 ### 🚛 Young Apprentice — Rápido Labarca Transportes Ltda *(Dez 2025 – Presente)*
 > Processamento de dados de cálculo de fretes, organização de registros e colaboração com múltiplos times para eficiência operacional.
