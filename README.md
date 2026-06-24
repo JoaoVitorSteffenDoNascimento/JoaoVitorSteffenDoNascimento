@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Co-Founder+%40+GuardianDocs+%F0%9F%9B%A1%EF%B8%8F;React+%7C+Next.js+%7C+Node.js+%7C+Java;Ethical+Hacker+Track+%E2%80%94+Cisco+CiberEduca%C3%A7%C3%A3o+%F0%9F%94%90;1st+Place+%E2%80%94+Feevale+University+Hackathon+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Java;Ethical+Hacker+Track+%E2%80%94+Cisco+CiberEduca%C3%A7%C3%A3o+%F0%9F%94%90;1st+Place+%E2%80%94+Feevale+University+Hackathon+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,6 +38,9 @@ const joao = {
     "🎯 Cisco CiberEducação — Ethical Hacker Track",
     "🥇 OBI 2025 & 2026 — Olimpíada Brasileira de Informática"
   ],
-  languages: { portuguese: "C2 Native", english: "B1 Intermediate" },
+  languages: {
+    portuguese: "C2 Native",
+    english: "B1 Intermediate"
+  },
   funFact: "I optimize APIs from 4s to 200ms and call it a good day ⚡"
 };
